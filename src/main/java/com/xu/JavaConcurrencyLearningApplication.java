@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JavaParallelLearningApplication {
+public class JavaConcurrencyLearningApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JavaParallelLearningApplication.class, args);
+		SpringApplication.run(JavaConcurrencyLearningApplication.class, args);
 	}
 }

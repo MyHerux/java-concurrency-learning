@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.xu</groupId>
-	<artifactId>java-parallel-learning</artifactId>
+	<artifactId>java-concurrency-learning</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>java-parallel-learning</name>
-	<description>java-parallel-learning-demo</description>
+	<name>java-concurrency-learning</name>
+	<description>java-concurrency-learning-demo</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

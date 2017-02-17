@@ -1,4 +1,4 @@
-package com.xu.parallel.base;
+package com.xu.concurrency.base;
 
 
 public class Interrupt {
