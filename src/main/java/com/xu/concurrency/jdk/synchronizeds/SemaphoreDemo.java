@@ -1,4 +1,4 @@
-package com.xu.concurrency.jdk.Synchronized;
+package com.xu.concurrency.jdk.synchronizeds;
 
 
 import java.util.concurrent.ExecutorService;

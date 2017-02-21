@@ -1,4 +1,4 @@
-package com.xu.concurrency.jdk.ThreadPool;
+package com.xu.concurrency.jdk.threadPool;
 
 import java.util.concurrent.*;
 
